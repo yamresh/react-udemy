@@ -3,11 +3,11 @@ import { render } from 'react-dom';
 //import Navbar from './Navbar';
 //import Jumbotron from './Jumbotron';
 //import Page from './Page';
-import Hello from './Hello';
-import Theme from '/Theme';
-import Counter from './Counter';
-import './bootstraps.css'
-
+ import Hello from './Hello';
+import Theme from './Theme';
+ import Counter from './Counter';
+// import './bootstraps.css'
+/* This is new */
 const styles = {
   fontFamily: 'sans-serif',
   textAlign: 'center',
